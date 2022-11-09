@@ -1,3 +1,5 @@
+name: Dastardly
+run-name: Scan of ${{ inputs.target }} 
 on:
   workflow_dispatch:
     inputs:
